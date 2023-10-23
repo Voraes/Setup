@@ -1,0 +1,2 @@
+# qt5ct config
+export QT_QPA_PLATFORMTHEME=qt5ct
